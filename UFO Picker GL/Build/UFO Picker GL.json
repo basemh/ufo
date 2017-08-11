@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "UFO Picker GL.data.unityweb",
+"asmCodeUrl": "UFO Picker GL.asm.code.unityweb",
+"asmMemoryUrl": "UFO Picker GL.asm.memory.unityweb",
+"asmFrameworkUrl": "UFO Picker GL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
